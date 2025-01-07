@@ -39,7 +39,7 @@ To conduct advanced data analysis and modeling, including data management, visua
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/Upwork-Project-2.git
+   git clone https://github.com/TejasLohar1999/Upwork-Project-2.git
    cd Upwork-Project-2
    ```
 
